@@ -16,3 +16,6 @@ El dataset contiene informacion sobre los jugadores de las 5 grandes ligas de eu
 
 La idea en un inicio es trabajar solo con este dataset, pero es posible que puedan agregarse mas dataset para el analisis
 
+
+Es recomendable descargar el proyecto y ejecutarlo ya que contine graficas interactivas
+
